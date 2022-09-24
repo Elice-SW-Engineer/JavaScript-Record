@@ -33,7 +33,7 @@
 
 ## 🏎 레이서
 
-| 참가자 이름 |                  Github 프로필                  |                                                      학습 자료                                                       | 정리 자료  |
+| 레이서 이름 |                  Github 프로필                  |                                                      학습 자료                                                       | 정리 자료  |
 | :---------: | :---------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :--------: |
 |   김동한    |       [LESANF](https://github.com/LESANF)       | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:]() |
 |   김유범    |        [uBeom](https://github.com/uBeom)        | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:]() |
