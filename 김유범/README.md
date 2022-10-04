@@ -5,5 +5,5 @@
 |     this      |       [링크](https://kimub1204.notion.site/This-7459d994814442e5a94045d914483cca)        |
 |   콜백 함수   | [링크](https://kimub1204.notion.site/Callback-Function-a85e065c10d9430aae95c0177f5d9c4a) |
 |    클로저     |      [링크](https://kimub1204.notion.site/Closure-c983f9f7aac64f00baf2e7bbcd82c189)      |
-|  프로토타입   |                                         [링크]()                                         |
+|  프로토타입   |     [링크](https://kimub1204.notion.site/Prototype-ad3649f8d15e4646a59903e6cec7162a)     |
 |    클래스     |                                         [링크]()                                         |
