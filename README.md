@@ -33,10 +33,10 @@
 
 ## 🏎 레이서
 
-| 레이서 이름 |                  Github 프로필                  |                                                      학습 자료                                                       | 정리 자료  |
-| :---------: | :---------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :--------: |
-|   김동한    |       [LESANF](https://github.com/LESANF)       | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:]() |
-|   김유범    |        [uBeom](https://github.com/uBeom)        | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:]() |
-|   박성일    | [GUAJEGUICHAN](https://github.com/GUAJEGUICHAN) | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:]() |
-|   강민희    |    [kangmin01](https://github.com/kangmin01)    | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:]() |
-|   차지환    |  [ckwlghks123](https://github.com/ckwlghks123)  | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:]() |
+| 레이서 이름 |                  Github 프로필                  |                                                      학습 자료                                                       |         정리 자료          |
+| :---------: | :---------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------: |
+|   김동한    |       [LESANF](https://github.com/LESANF)       | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) | [:link:](김동한/README.md) |
+|   김유범    |        [uBeom](https://github.com/uBeom)        | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) |         [:link:]()         |
+|   박성일    | [GUAJEGUICHAN](https://github.com/GUAJEGUICHAN) | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) |         [:link:]()         |
+|   강민희    |    [kangmin01](https://github.com/kangmin01)    | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) |         [:link:]()         |
+|   차지환    |  [ckwlghks123](https://github.com/ckwlghks123)  | [코어 자바스크립트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391720) |         [:link:]()         |
